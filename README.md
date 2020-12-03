@@ -1,1 +1,0 @@
-# The file Millie.py could be ran on your pc if u have python installed and if u wanna export it to like a device which does not have python you will need to convert it to an 'exe' file. You can take inspiration from the following. 
